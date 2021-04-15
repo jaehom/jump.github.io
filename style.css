@@ -33,7 +33,7 @@
     position: relative;
     top: 230px;
     left: 365px;
-    animation: block 1s infinite linear;
+    animation: block 1.5s infinite linear;
 }
 @keyframes block{
     0%{left: 750px}
